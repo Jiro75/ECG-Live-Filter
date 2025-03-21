@@ -3,7 +3,10 @@ ECG-Live-Filter is a Python-based ECG signal processing and visualization tool w
 
 **Quick View**
 
-https://github.com/user-attachments/assets/453c391a-f47f-4939-8043-4bbac83219f3
+
+https://github.com/user-attachments/assets/b4e420ca-34b6-48f1-ad04-6ad6e053058c
+
+
 
 ## 📌 **Project Overview**  
 **ECG-Live-Filter** is a real-time ECG signal processing and visualization tool. This Python-based application enables users to load ECG data, apply noise-removal filters, and visualize the signal dynamically. Designed for biomedical engineers, researchers, and AI developers, this tool enhances ECG signal analysis.  
